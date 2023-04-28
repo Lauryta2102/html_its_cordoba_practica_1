@@ -10,3 +10,5 @@ alumno 1-
  4ro = inicializo el repositorio con el comando git init
 
  
+luego genero uva rama con el comando git branch nueva_rama
+me pasiciono sobre la nueva rama
